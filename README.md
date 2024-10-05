@@ -1,6 +1,6 @@
 # Inteligência Artificial - Página Informativa
 
-![Ilustração de Inteligência Artificial](image.jpg)
+![Ilustração de Inteligência Artificial](image.PNG)
 
 Este projeto apresenta uma página web informativa sobre **Inteligência Artificial (IA)**, cobrindo tópicos essenciais, como definições, história, aplicações, desafios éticos e o futuro da IA. A página foi criada com HTML e estilizada usando CSS, visando uma apresentação moderna e visualmente atraente.
 
